@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=CHIRP
+GenericName=Amateur Radio Digital Modem
+GenericName=Radio Programming Tool
+Comment=Program amateur radios
+Icon=chirp
+Exec=chirpw %F
+Terminal=false
+MimeType=inode/directory
+Categories=HamRadio;
