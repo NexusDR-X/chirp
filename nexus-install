@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 #
-VERSION="1.0.1"
+VERSION="1.0.2"
 case $(uname -m) in
    armv6l|armv7l)
 		sudo rm -f /usr/bin/chirpw
@@ -16,6 +16,6 @@ case $(uname -m) in
       exit 1
       ;;
 esac
-sudo cp -f chirp/usr/local/share/pixmaps/*.png /usr/local/share/pixmaps/
-sudo cp -f chirp/usr/local/share/pixmaps/*.desktop /usr/share/applications/
+sudo cp -f chirp/usr/share/pixmaps/*.png /usr/share/pixmaps/
+sudo cp -f chirp/usr/share/applications/*.desktop /usr/share/applications/
 exit 0
