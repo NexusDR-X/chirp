@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 #
-VERSION="1.0.0"
+VERSION="1.0.1"
 case $(uname -m) in
    armv6l|armv7l)
 		sudo rm -f /usr/bin/chirpw
@@ -9,7 +9,7 @@ case $(uname -m) in
       ;;
    aarch64)
 		sudo rm -f /usr/bin/chirpw
-		sudo ln -s chirp/usr/bin/Chirp-daily-*-aarch64.AppImage /usr/bin/chirpw
+		sudo ln -s chirp/Chirp-daily-*-aarch64.AppImage /usr/bin/chirpw
       ;;
    *)
       echo "Unable to determine architecture"
