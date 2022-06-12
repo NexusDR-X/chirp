@@ -1,1 +1,1 @@
-47c26b7bdcd33c2f0c61350327fbad1d05fd795ab0829eccba31c5ce3afc2a3b  Chirp-daily-20220604-armhf.AppImage
+69f17a49c32388b8e9ba11be09716c0b3ad1c8dcfe3f0827908619609636fb2b  Chirp-daily-20220604-armhf.AppImage
