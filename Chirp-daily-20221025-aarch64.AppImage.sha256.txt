@@ -1,1 +1,0 @@
-5a242f9172148189a1613ca688d12db32ecff45bef4f29ff09d9e44a7b87cef0  Chirp-daily-20221025-aarch64.AppImage
