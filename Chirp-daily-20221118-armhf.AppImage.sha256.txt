@@ -1,0 +1,1 @@
+aea68e58d4bf55edf048670e9345aadc34d855ae8623d8265bbb9506cbd5fd0a  Chirp-daily-20221118-armhf.AppImage
