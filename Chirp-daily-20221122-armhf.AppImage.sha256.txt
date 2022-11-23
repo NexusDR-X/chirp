@@ -1,1 +1,1 @@
-4fa32e3fa31ef889be51f441b949aa3ba1bf4a0610db6358f972d09ea56e79b2  Chirp-daily-20221122-armhf.AppImage
+3faadcb8f9979ac9c04e8e407a131e53b1cb0e690b434325d84463b46a63f204  Chirp-daily-20221122-armhf.AppImage
