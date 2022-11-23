@@ -1,1 +1,1 @@
-48704f2aa31f4ef28b5ce183c7bdbd6f028477fecc8d6ecade1bee06a690a623  Chirp-daily-20221122-aarch64.AppImage
+b2fa4903e686e599ff06d7c869aa6d7d6316f6df9ff06a99973ffa789bafff6e  Chirp-daily-20221122-aarch64.AppImage
